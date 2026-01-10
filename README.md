@@ -38,7 +38,7 @@ R/4.3.0 python/3.11.4 pytorch/2.5.0py311-cuda
 
 ## Citation:
 
-If you use or adapt this project, please cite the associated manuscript:
+If you use or adapt this project, please cite:
 
 
 *A Machine-Learning–Based Causal Interface for Environmental Predictors of Substance Use Initiation in the ABCD Study*  
