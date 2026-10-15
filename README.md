@@ -54,7 +54,7 @@ R/4.3.0 python/3.11.4 pytorch/2.5.0py311-cuda
 If you use or adapt this project, please cite:
 
 
-*A Machine-Learning–Based Causal Interface for Environmental Predictors of Substance Use Initiation in the ABCD Study*  
+*A Machine-Learning–Based Causal Interface for Environmental Predictors of Substance Use Initiation in the ABCD Study*  doi: https://doi.org/10.64898/2026.04.15.26350988
 Mengman Wei, Lasya Yadlapati, and Qian Peng
 
 ---
