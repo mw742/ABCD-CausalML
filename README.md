@@ -3,7 +3,7 @@
 
 Machine-learning–based causal interface for identifying and estimating effects of high-dimensional environmental predictors of substance use initiation in the ABCD Study.
 
-Mengman Wei\*, Lasya Yadlapati, and Qian Peng\*
+Mengman Wei, Lasya Yadlapati, and Qian Peng
 
 ---
 
