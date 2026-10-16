@@ -15,19 +15,6 @@ The workflow is designed to help move from **high-dimensional longitudinal predi
 
 > **Data note:** ABCD data are controlled access. This repo provides code only; it does not include ABCD data.
 
-
----
-
-## Data access and responsible use
-
-This repository provides analysis code and does not include participant-level ABCD Study data. Users must obtain authorized access through the relevant official data provider and comply with applicable data-use agreements, approved research purposes, and institutional requirements.
-
-The software license does not grant access to ABCD data or permission to redistribute external datasets or restricted derived outputs.
-
-Generated analysis files may contain participant identifiers, longitudinal measurements, predictors, and substance-use outcomes. Do not upload these files to public repositories or share them with unauthorized individuals.
-
-For reproducibility, document the data release/version, accession or DOI where available, preprocessing steps, and exact code commit used. Include acknowledgments required by the data provider.
-
 ---
 
 ## Repository Content
@@ -56,6 +43,21 @@ If you use or adapt this project, please cite:
 
 *A Machine-Learning–Based Causal Interface for Environmental Predictors of Substance Use Initiation in the ABCD Study*  doi: https://doi.org/10.64898/2026.04.15.26350988
 Mengman Wei, Lasya Yadlapati, and Qian Peng
+
+
+
+---
+
+## Data access and responsible use
+
+This repository provides analysis code and does not include participant-level ABCD Study data. Users must obtain authorized access through the relevant official data provider and comply with applicable data-use agreements, approved research purposes, and institutional requirements.
+
+The software license does not grant access to ABCD data or permission to redistribute external datasets or restricted derived outputs.
+
+Generated analysis files may contain participant identifiers, longitudinal measurements, predictors, and substance-use outcomes. Do not upload these files to public repositories or share them with unauthorized individuals.
+
+For reproducibility, document the data release/version, accession or DOI where available, preprocessing steps, and exact code commit used. Include acknowledgments required by the data provider.
+
 
 ---
 
